@@ -1,3 +1,6 @@
 [submodule "Viewer"]
 	path = Viewer
-	url = git@github.com:gtajesgenga/Viewers.git
+	url = https://github.com/gtajesgenga/Viewers.git
+[submodule "Segmenter"]
+	path = Segmenter
+	url = https://github.com/gtajesgenga/segmenter.git
