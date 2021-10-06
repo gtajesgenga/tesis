@@ -10,7 +10,7 @@ _National University of the Center of the Buenos Aires Province._
 ### Summary
 This is the final project made to get the degree of Systems Engineer.
 
-Is composed by 2 modules:
+It is composed by 2 modules:
 * #### Viewer
     Web application to view 2D and 3D medical images.
 * #### Segmenter
